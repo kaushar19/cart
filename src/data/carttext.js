@@ -1,7 +1,7 @@
 export var cartText = [
   {
     id: 0,
-    image: "/images/first.webp",
+    image: "../images/first.webp",
     alt: "toys",
     name: "RSS SOFT TOYS ",
     price: "₹303",
@@ -9,7 +9,7 @@ export var cartText = [
   },
   {
     id: 1,
-    image: "/images/second.webp",
+    image: "../images/second.webp",
     alt: "wathch",
     name: " Noise Icon 3 plus",
     price: "₹1799",
@@ -17,7 +17,7 @@ export var cartText = [
   },
   {
     id: 2,
-    image: "/images/third.webp",
+    image: "../images/third.webp",
     alt: "watch",
     name: "  boAt Wave Fury ",
     price: "₹1499",
@@ -25,7 +25,7 @@ export var cartText = [
   },
   {
     id: 3,
-    image: "/images/fourth.webp",
+    image: "../images/fourth.webp",
     alt: "ear-buds",
     name: "boAt Airdopes 161/163 ",
     price: "₹1099",
@@ -33,7 +33,7 @@ export var cartText = [
   },
   {
     id: 4,
-    image: "/images/fifth.webp",
+    image: "../images/fifth.webp",
     alt: "ear-buds",
     name: "    realme Buds Air  ",
     price: "₹3099",
@@ -41,7 +41,7 @@ export var cartText = [
   },
   {
     id: 5,
-    image: "/images/sixth.webp",
+    image: "../images/sixth.webp",
     alt: "camera",
     name: "     Canon R100 Mirrorless Camera ",
     price: "₹45000",
@@ -49,7 +49,7 @@ export var cartText = [
   },
   {
     id: 6,
-    image: "/images/seventh.webp",
+    image: "../images/seventh.webp",
     alt: "bycycle",
     name: "      Urban Terrain Bolt Cycles ",
     price: "₹6700",
@@ -57,7 +57,7 @@ export var cartText = [
   },
   {
     id: 7,
-    image: "/images/eigth.webp",
+    image: "../images/eigth.webp",
     alt: "earphone",
     name: "      HERCULES TOP GEAR-A29 ",
     price: "₹15000",
@@ -65,7 +65,7 @@ export var cartText = [
   },
   {
     id: 8,
-    image: "/images/ninth.webp",
+    image: "../images/ninth.webp",
     alt: "fingerprint",
     name: "     MANTRA Mfs 100  ",
     price: "₹1945",
@@ -73,11 +73,10 @@ export var cartText = [
   },
   {
     id: 9,
-    image: "/images/tenth.webp",
+    image: "../images/tenth.webp",
     alt: "sunflowerkit",
     name: "  Fevicryl Sunflower Kit  ",
     price: "₹217",
     offer: "10% off",
   },
-  
 ];
