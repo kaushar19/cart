@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.container>div {
+    background-color: #fff;
+    width: 250px;
+    height: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.container>div:hover {
+    transform: scale(1.05);
+}
+
+.cartImg {
+    width: 250px;
+    height: 200px;
+
+}
+
+.cartImg img {
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+
+}
+
+.cartTitle {
+    width: 250px;
+    height: 100px;
+
+}
+
+.cartName {
+    width: 250px;
+    height: 50px;
+    padding: 0px 10px 0px 10px;
+}
+
+.cartName p {
+    height: 25px;
+    margin: 5px 0px 0px 0px;
+}
+
+.cartName div {
+    height: 25px;
+    margin: 0px 0px 15px 0px;
+}
+
+.price {
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.cartBtn {
+    display: flex;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    gap: 10px;
+}
+
+.cartBtn button {
+    width: 110px;
+
+}
+
+
+.cartoffer {
+    color: rgb(56, 142, 60);
+    font-weight: 600;
+}
+
+.add {
+    background-color: rgb(255, 159, 0);
+    color: #fff;
+}
+
+.buy {
+    background-color: rgb(251, 100, 27);
+    color: #fff;
+}
